@@ -14,6 +14,7 @@ I enjoy turning ideas into impactful projects — from election awareness platfo
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ankur-akr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankurrai5711@gmail.com) 
+<br><br>
 🌐 Portfolio: https://ankurrai.in/
 
 # 💻 Tech Stack:
